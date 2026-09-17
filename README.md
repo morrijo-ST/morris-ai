@@ -30,25 +30,27 @@ My background spans FP&A, business intelligence, finance systems, data architect
 - RAG and internal knowledge systems
 - Exception management, approvals, controls, logging, and handoff documentation
 
-## Flagship Portfolio
+## Runnable Public Demonstrations
+
+Each flagship repository below now contains synthetic data generation, executable business logic, an interactive Streamlit demonstration, tests, and project documentation.
 
 1. [AI Finance Intelligence Platform](https://github.com/morrijo-ST/ai-finance-intelligence-platform)  
-   Natural-language finance intelligence across governed data, APIs, variance analysis, and executive reporting.
+   Finance Q&A, executive briefing, revenue / forecast / bookings analysis, and variance reporting.
 
 2. [Enterprise ACV & Revenue Intelligence](https://github.com/morrijo-ST/enterprise-acv-revenue-intelligence)  
-   Snowflake + Power BI architecture for recurring revenue, bookings, expirations, contracts, geography, and FP&A analysis.
+   Recurring-revenue portfolio modeling, ACV movement, expirations, bookings, region/product analysis, and customer drilldown.
 
 3. [Bookings & Revenue Intelligence](https://github.com/morrijo-ST/bookings-revenue-intelligence)  
-   Executive bookings, forecast, variance, renewal, and revenue-stage analytics.
+   Closed Won, Commit, Best Case, Pipeline, weighted forecast, renewals, revenue, and regional performance.
 
 4. [Finance Close & Reconciliation Platform](https://github.com/morrijo-ST/finance-close-reconciliation-platform)  
-   Multi-source reconciliation, exception management, approval controls, and close automation.
+   Exact matching, near-amount variance, partial payments, duplicates, unmatched items, and exception queues.
 
 5. [Revenue Backlog Automation](https://github.com/morrijo-ST/revenue-backlog-automation)  
-   Services backlog normalization, FX logic, project analysis, regional rollups, and automated management reporting.
+   Project backlog normalization, FX conversion, revenue recognition views, project-type analysis, and management reporting.
 
 6. [Retention & Attrition Intelligence](https://github.com/morrijo-ST/retention-attrition-intelligence)  
-   GRR, NRR, logo attrition, revenue attrition, expansion, contraction, health scoring, and executive commentary.
+   GRR, NRR, logo attrition, revenue attrition, expansion, contraction, movement bridges, and portfolio health scoring.
 
 ## How I Approach Systems
 
@@ -65,11 +67,11 @@ My background spans FP&A, business intelligence, finance systems, data architect
 
 ## Technology
 
-`Snowflake` `Power BI` `SQL` `Python` `FastAPI` `Azure` `Supabase` `PostgreSQL` `Claude` `OpenAI` `n8n` `REST APIs` `Webhooks` `Salesforce` `HubSpot` `Excel`
+`Snowflake` `Power BI` `DAX` `SQL` `Python` `Streamlit` `FastAPI` `Azure` `Supabase` `PostgreSQL` `Claude` `OpenAI` `n8n` `REST APIs` `Webhooks` `Salesforce` `HubSpot` `Excel`
 
 ## Public Portfolio Standard
 
-Every public project is being rebuilt as a sanitized reference implementation. Employer data, credentials, internal identifiers, customer information, and proprietary source code are excluded. Public demos use synthetic data and generalized business rules.
+Every public project is a sanitized reference implementation. Employer data, credentials, internal identifiers, customer information, and proprietary source code are excluded. Public demos use deterministic synthetic data and generalized business rules.
 
 ---
 
