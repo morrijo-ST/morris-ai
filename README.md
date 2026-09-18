@@ -1,14 +1,41 @@
-# Jordan Morris — Finance Systems, BI & AI Automation
+# Jordan Morris
+### Finance systems that make the numbers usable.
 
-I design and build business systems that connect **finance, data, analytics, integrations, and AI automation**.
+**FP&A · Business intelligence · Analytics engineering · AI automation**
 
-My portfolio sits at the intersection of FP&A, finance systems, business intelligence, data architecture, accounting controls, and workflow automation. The projects below are public-safe reference implementations built with synthetic data so clients can inspect both the business thinking and the working technology.
+I build dashboards, forecasting models, reconciliation workflows, and data pipelines for finance and operations teams. My work connects the accounting logic behind the numbers with the software people use to review them.
 
-## Positioning
+[**Explore the projects ↓**](#featured-work) · [**Work with me on Upwork →**](https://www.upwork.com/freelancers/~0191c23468b4c3be19)
 
-**Business Intelligence & Finance Systems Architect | Snowflake • Power BI • Python • AI Automation**
+---
 
-## 19 Runnable Public Demonstrations
+## What I can build for your team
+
+| Your need | A practical deliverable |
+| :--- | :--- |
+| Reporting spread across spreadsheets and systems | A documented data model and finance dashboard |
+| Forecasts that are difficult to update or explain | A planning model with scenarios and variance analysis |
+| Manual close and reconciliation work | Matching rules, an exception queue, and review evidence |
+| Unclear revenue movement or renewal exposure | ACV bridges, customer drilldowns, and revenue reporting |
+| Repetitive operational follow-up | A workflow with routing rules, human review, and an audit trail |
+
+## Featured work
+
+Six starting points. Each includes source code and an interactive demonstration.
+
+| Project | What to explore | Links |
+| :--- | :--- | :--- |
+| **AI Finance Intelligence** | Revenue and forecast analysis, variance detail, and deterministic finance Q&A | [Demo](https://ai-finance-intelligence-platform.onrender.com) · [Code](https://github.com/morrijo-ST/ai-finance-intelligence-platform) |
+| **Enterprise ACV & Revenue Intelligence** | Recurring-revenue movement, renewal exposure, and customer drilldowns | [Demo](https://enterprise-acv-revenue-intelligence.onrender.com) · [Code](https://github.com/morrijo-ST/enterprise-acv-revenue-intelligence) |
+| **Finance Close & Reconciliation** | Matching, payment exceptions, and supporting bank/invoice evidence | [Demo](https://finance-close-reconciliation-platform.onrender.com) · [Code](https://github.com/morrijo-ST/finance-close-reconciliation-platform) |
+| **Sales Compensation Forecasting** | Commission scenarios, earned expense, and payout timing | [Demo](https://sales-commission-forecasting-engine.onrender.com) · [Code](https://github.com/morrijo-ST/sales-commission-forecasting-engine) |
+| **FP&A Planning & Variance** | Budget versus actual, forecast scenarios, and cost variance analysis | [Demo](https://fpa-planning-variance-dashboard.onrender.com) · [Code](https://github.com/morrijo-ST/fpa-planning-variance-dashboard) |
+| **Snowflake + dbt Analytics Engineering** | A local simulation of staging-to-mart lineage and data-quality controls | [Demo](https://snowflake-dbt-analytics-engineering.onrender.com) · [Code](https://github.com/morrijo-ST/snowflake-dbt-analytics-engineering) |
+
+> **About the demonstrations:** These are independent portfolio projects using synthetic data. Hosted apps demonstrate calculations and workflows; they are not connected to client systems. QuickBooks, CRM, Snowflake, voice, and AI integration patterns require production integration work. Finance Q&A is deterministic, and the knowledge assistant demonstrates keyword-based retrieval. A sleeping demo may take a moment to start.
+
+<details>
+<summary><strong>Browse all 19 portfolio projects</strong></summary>
 
 ### Finance, FP&A & Accounting Systems
 
@@ -54,7 +81,7 @@ My portfolio sits at the intersection of FP&A, finance systems, business intelli
     [Live demo](https://crm-accounting-sync-platform.onrender.com) · event-driven synchronization, duplicate prevention, conflict handling, retries, and audit visibility.
 
 14. **[Enterprise RAG Knowledge Assistant](https://github.com/morrijo-ST/rag-enterprise-knowledge-assistant)**  
-    [Live demo](https://rag-enterprise-knowledge-assistant-gzg4.onrender.com) · grounded retrieval, metadata filtering, citations, and unsupported-question controls.
+    [Live demo](https://rag-enterprise-knowledge-assistant-gzg4.onrender.com) · keyword-based passage retrieval, metadata filtering, source references, and unsupported-question controls.
 
 15. **[AI Voice Receptionist](https://github.com/morrijo-ST/ai-voice-receptionist)**  
     [Live demo](https://ai-voice-receptionist-2ext.onrender.com) · intent classification, appointment workflows, billing routing, urgent escalation, and structured call summaries.
@@ -72,6 +99,8 @@ My portfolio sits at the intersection of FP&A, finance systems, business intelli
 
 19. **[Snowflake + dbt Analytics Engineering](https://github.com/morrijo-ST/snowflake-dbt-analytics-engineering)**  
     [Live demo](https://snowflake-dbt-analytics-engineering.onrender.com) · raw/staging/mart modeling, dimensional design, lineage, dbt-style tests, and revenue marts.
+
+</details>
 
 ## Core Capabilities
 
@@ -120,3 +149,9 @@ My portfolio sits at the intersection of FP&A, finance systems, business intelli
 ## Public Portfolio Standard
 
 Every public project is a sanitized reference implementation. Employer data, credentials, internal identifiers, customer information, and proprietary source code are excluded. Public demos use synthetic data and generalized business rules. The deeper flagship repositories also include architecture, methodology, controls, runbooks, and automated-test documentation.
+
+## Start with a defined problem
+
+Send me the report or workflow you want to improve, the source systems involved, and the output your team needs. We can define a focused first deliverable with clear assumptions and acceptance criteria.
+
+[**Discuss your project on Upwork →**](https://www.upwork.com/freelancers/~0191c23468b4c3be19)
